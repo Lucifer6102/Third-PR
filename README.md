@@ -1,6 +1,6 @@
 # Third-PR
 
-# Bu Rishabh Gupta
+# By Rishabh Gupta
 
 *hello
 
