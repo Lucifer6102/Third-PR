@@ -30,8 +30,6 @@ Food.shape("circle")
 Food.color("red")
 Food.penup()
 Food.goto(0,100)
-
-
 segments = []
 
 
