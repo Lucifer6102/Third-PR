@@ -2,5 +2,4 @@
 
 # By Rishabh Gupta
 
-*hello
-
+# For Hacktoberfest 2021
