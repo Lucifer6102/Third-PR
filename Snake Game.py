@@ -79,13 +79,6 @@ def move():
 		x = head.xcor()
 		head.setx(x + 20)
 
-# Keyboard Bidings
-wn.listen()
-wn.onkeypress(go_up,"w")
-wn.onkeypress(go_down,"s")
-wn.onkeypress(go_left,"a")
-wn.onkeypress(go_right,"d")
-
 # Main game loop
 while True:
 	wn.update()
