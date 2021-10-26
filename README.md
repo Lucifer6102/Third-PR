@@ -2,4 +2,3 @@
 
 # By Rishabh Gupta
 
-*hello
